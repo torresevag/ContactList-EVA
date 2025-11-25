@@ -1,0 +1,51 @@
+body{
+    background: rgb(255, 217, 217);
+    text-align: center;
+}
+
+h1{
+color:lightcoral;
+margin-top: 50px;
+}
+
+.contactos{
+    border: solid 2px lightcoral;
+    width: 300px;
+    margin: 20px auto;
+    padding: 10px;
+
+}
+
+ul{
+    list-style-type: none;
+    
+}
+
+button{
+    margin: 5px;
+    margin-top: 10px;
+    border-radius: 50px;
+    background: none;
+}
+
+form{
+    margin: 5px;
+}
+
+input{
+    margin:5px;
+    border-radius: 10px;
+    border: solid 2px lightcoral;
+    padding: 5px;
+    align-items: center;
+
+
+}
+
+.agregar{
+    text-decoration: none;
+    color: white;
+    background-color: lightcoral;
+    padding: 10px;
+    border-radius: 10px;
+}
